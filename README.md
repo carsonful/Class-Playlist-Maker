@@ -2,9 +2,10 @@
 # SpotifyXCanvas
 
 
-<img src="https://cdn.discordapp.com/attachments/951616423745167370/967844859622858802/icon32x.png" data-canonical-src="https://cdn.discordapp.com/attachments/951616423745167370/967844859622858802/icon32x.png" width="400" height="400" />
+ <img src="https://media.discordapp.net/attachments/1117250096325734471/1307012620829855907/NTEud2VicA.png?ex=6738c1db&is=6737705b&hm=837a4693244819decb5613c123ea0f01b74c5de014198e4862c33e7275d7f473&=&format=webp&quality=lossless&width=946&height=601" width="400" height="400" />
 
 > If you'd like to contact me please looked at my [ReadMe](https://github.com/carsonful/carsonful) on how to reach me.
+
 > An example. https://open.spotify.com/playlist/2vwgqcsUDuXbAdevQvthTi
 ---
 ### Table of Contents
@@ -65,7 +66,7 @@ This program allows a user to read a discussion in canvas, and retrieve its entr
 of song names will be broken up into a list and searched by the spotify api, this is then added to the playlist,
 it does not allow duplicate songs to be added
 
-
+<!---
 For example:
 
 
@@ -76,7 +77,7 @@ For example:
 <img src="https://cdn.discordapp.com/attachments/951616423745167370/967849126588989470/Opera_Snapshot_2022-04-24_140536_sdhc.instructure.com.png" data-canonical-src="https://cdn.discordapp.com/attachments/951616423745167370/967849126588989470/Opera_Snapshot_2022-04-24_140536_sdhc.instructure.com.png" width="700" height="400"/>
 
 > This was the input from the discussion.
-
+-->
 
 ---
 #### Resources
